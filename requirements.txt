@@ -1,0 +1,8 @@
+asgiref==3.7.2
+Django==5.0.1
+djangorestframework==3.14.0
+PyMuPDF==1.23.8
+PyMuPDFb==1.23.7
+PyPDF2==3.0.1
+pytz==2023.3.post1
+sqlparse==0.4.4
