@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-7ssh9m87kek(o6m3mxglf3h9t!w=_#!_9uj8)xe(_ow4*zz)ko'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','pdfparser.flexioninfotech.com']
 
