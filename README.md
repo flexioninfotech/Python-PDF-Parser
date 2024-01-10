@@ -8,7 +8,7 @@
 ####  file - File Field  
 ####  keyword - Sinlge String 
 
-#### The Keyword Is The Bonus Feature Of This API It Searches For the Keyword In The Pasred Data And If The Is A Match It's Shows It and Provides Percentage.
+#### The Keyword Is The Bonus Feature Of This API It Searches For the Keyword In The Pasred Data And If There Is A Match It Shows It and Provides Percentage.
 #### Expected Output & Usage Video 
 https://github.com/flexioninfotech/Python-PDF-Parser/assets/154319943/9de4f52c-3d8a-49a0-841d-b71dbca04c06
 
